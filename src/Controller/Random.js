@@ -30,18 +30,3 @@ class Random extends Component {
 }
 
 export default Random;
-
-{/* 
-<div className="jumbotron">
-        <h1 className="display-4">LERO LERO</h1>
-        <p className="lead">Gerador de frases aleatórias</p>
-        <hr className="my-4"/>
-        <p>{this.state.novo}</p>
-        <button className="btn btn-primary btn-lg" onClick={this.handleClick}>Frase Aleatória</button>
-      </div>
-       */}
-      {/* <div>
-        
-        <button onClick={this.handleClick}>Frase aleatória</button> 
-        <p>{this.state.novo}</p>
-      </div> */}
