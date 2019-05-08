@@ -17,7 +17,7 @@ class Random extends Component {
 
   render() {
     return (
-      <div className="container">
+      <div className="d-flex flex-column justify-content-center">
           <img src="https://i.imgur.com/FRK6meX.png" style={{width:'250px', height:'200px'}}alt="..."/>
           <div >
             <h5>Lero Lero do Hashi</h5>
